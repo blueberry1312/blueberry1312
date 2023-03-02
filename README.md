@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Néstor (Him/He) 👋
 
-<!--
-**blueberry1312/blueberry1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About me:
 
-Here are some ideas to get you started:
+- 🔭 I’m a full-stack web app development student from Microverse.
+- 🌱 I love to explore and learn about new things.
+- 💬 Let's talk about Language Technologies, 3d Prints,  and Domotics.
+- ⚡ Riding a bike and watching anime my biggest hoobies.
+- 📚 Currently I'm reading five books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Languages:
+
+- Python
+- C++
+- HTML
+- CSS
+- Javascript
+
+## 🤝 Contact me:
+
+- GitHub: [@blueberry1312](https://github.com/blueberry1312)
+- Twitter: [@nestorsitooo](https://twitter.com/nestorsitooo)
+- LinkedIn: [Néstor Oro](https://www.linkedin.com/in/nes-oro-658570225/)
+- Gmail: [nestor.oro.alvarez@gmail.com](mailto:nestor.oro.alvarez@gmail.com)
+
+## 🏆 Github Stats:
+
+<img alt="Nestor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blueberry1312&hide=stars&show_icons=true&theme=tokyonight" width="400"/>
+
+<img alt="Nestor's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberry1312&layout=compact&theme=tokyonight" width="400"/>
