@@ -2,7 +2,7 @@
 
 ## 🧐 About me:
 
-- 🔭 I’m a full-stack web app development student from Microverse.
+- 🔭 I’m a full-stack web app development graduated from Microverse.
 - 🌱 I love to explore and learn about new things.
 - 💬 Let's talk about Language Technologies, 3d Prints,  and Domotics.
 - ⚡ Riding a bike and watching anime my biggest hoobies.
@@ -15,6 +15,7 @@
 - HTML
 - CSS
 - Javascript
+- Ruby
 
 ## 🤝 Contact me:
 
