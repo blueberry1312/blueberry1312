@@ -21,7 +21,7 @@
 
 - GitHub: [@blueberry1312](https://github.com/blueberry1312)
 - Twitter: [@nestorsitooo](https://twitter.com/nestorsitooo)
-- LinkedIn: [Néstor Oro](https://www.linkedin.com/in/nes-oro-658570225/)
+- LinkedIn: [Néstor Oro](https://www.linkedin.com/in/nestor-oro/)
 - Gmail: [nestor.oro.alvarez@gmail.com](mailto:nestor.oro.alvarez@gmail.com)
 
 ## 🏆 Github Stats:
